@@ -1,0 +1,12 @@
+{
+  "movies": [
+    {
+      "title": "Inception",
+      "recommendations": ["Interstellar", "The Prestige", "Memento"]
+    },
+    {
+      "title": "The Dark Knight",
+      "recommendations": ["Batman Begins", "The Dark Knight Rises", "Joker"]
+    }
+  ]
+}
